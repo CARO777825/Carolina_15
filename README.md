@@ -1,10 +1,10 @@
 # Hola soy Carolina 🌹
 
-Ingeniera en Sitemas computacionales 
+Ingeniera en Sistemas computacionales 
 Mexico | carocrzv15@gmail.com
 
 ## Sobre mi
-22 años ,curso la carrerra de sitestemas computacionales 
+22 años ,curso la carrerra de ingenieria en sistemas computacionales 
 
 ## Tecnologias y herramientas 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
