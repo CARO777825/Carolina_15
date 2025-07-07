@@ -1,7 +1,6 @@
 # Hola soy Carolina 🌹
 
-Ingeniera en Sistemas computacionales 
-Mexico | carocrzv15@gmail.com
+Ingeniera en Sistemas computacionales |Mexico | carocrzv15@gmail.com
 
 ## Sobre mi
 22 años ,curso la carrerra de ingenieria en sistemas computacionales 
